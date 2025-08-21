@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Datos del proyecto (no subir a GitHub)
+01_datos_brutos/
+02_datos_limpios/
+03_base_consolidada/
+04_base_maestra/
+05_censo/
+06_geopackage/
