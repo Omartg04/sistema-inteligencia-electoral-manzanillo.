@@ -6,7 +6,7 @@ Este proyecto implementa un flujo de trabajo completo para la limpieza, estandar
 El objetivo final es la creación de una base de datos maestra unificada y un GeoPackage, que sirvan como insumos para el análisis geoespacial y político-electoral, cruzando los resultados de las votaciones con datos demográficos del Censo 2020.
 
 ## Estructura del Proyecto
-El repositorio está organizado en una estructura modular para separar los datos crudos, el código, los datos procesados y los resultados finales.
+El repositorio está organizado en una estructura modular para separar los datos crudos, el código, los datos procesados y los resultados finales. Las bases se encuentran disponibles en: https://drive.google.com/drive/folders/14KyNSXuqfq38MGKCkIEkhvwje1wFJKAP?usp=sharing
 
 ```
 /
