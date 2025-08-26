@@ -213,3 +213,6 @@ __marimo__/
 04_base_maestra/
 05_censo/
 06_geopackage/
+
+.DS_Store
+data/
